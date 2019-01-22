@@ -10,7 +10,6 @@ Vue.use(Auth, {
   redirect_uri: 'http://localhost:8080/implicit/callback',
   scope: 'openid profile email'
 })
-
 Vue.use(Router)
 
 let router = new Router({

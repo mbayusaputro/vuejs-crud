@@ -12,7 +12,7 @@
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
-    <!-- routes will be rendered here -->
+    <!-- routes will be rendered here/ get components in view -->
     <router-view />
   </div>
 </template>
